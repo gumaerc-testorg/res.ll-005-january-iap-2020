@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: D4M Session 1 Demo
 uid: 323fd510-86ef-198b-c0b4-30e26a8024eb
 video_files:
   archive_url: https://archive.org/download/MITRESLL-005F12/MITRESLL-005F12_L01_Demo_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/fa478c1f15125006a7993b6377bc0485_5RqTJWf1l_A.vtt
+  video_captions_file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/fa478c1f15125006a7993b6377bc0485_5RqTJWf1l_A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5RqTJWf1l_A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/96b5fb53e95d7a96cc5fcf4c57fd5ee8_5RqTJWf1l_A.pdf
+  video_transcript_file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/96b5fb53e95d7a96cc5fcf4c57fd5ee8_5RqTJWf1l_A.pdf
 video_metadata:
   youtube_id: 5RqTJWf1l_A
 ---

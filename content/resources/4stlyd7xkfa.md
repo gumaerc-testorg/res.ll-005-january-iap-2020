@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/4a75b5cebafe363fca01603b90ada6c4_4StlYd7xKFA.srt
+file: /media/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/4a75b5cebafe363fca01603b90ada6c4_4StlYd7xKFA.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 4a75b5ce-bafe-363f-ca01-603b90ada6c4

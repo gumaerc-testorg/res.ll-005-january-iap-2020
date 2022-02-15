@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Class Videos
 uid: 22ed3115-fb6b-8a6b-f2e9-075e053e3953
 videos:

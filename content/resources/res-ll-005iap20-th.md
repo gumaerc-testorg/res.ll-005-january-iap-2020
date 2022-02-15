@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/f5e28f0088be27048feb4ed7cc0587dd_res-ll-005iap20-th.jpg
+file: /media/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/f5e28f0088be27048feb4ed7cc0587dd_res-ll-005iap20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: '"Big Data" refers to a technological phenomenon that has emerged since
@@ -13,6 +13,8 @@ image_metadata:
     domain.)'
   credit: ''
   image-alt: Many arrays of numbers 0 and 1 in a dark blue background
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-005iap20-th.jpg
 uid: f5e28f00-88be-2704-8feb-4ed7cc0587dd

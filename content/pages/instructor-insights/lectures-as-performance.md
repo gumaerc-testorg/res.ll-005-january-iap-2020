@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: efd65719-a23a-09e5-c189-f398b3334ee2
 title: Lectures as Performance
 uid: ff36ecd8-eeaf-ee37-3b35-8606a9c6bb0e

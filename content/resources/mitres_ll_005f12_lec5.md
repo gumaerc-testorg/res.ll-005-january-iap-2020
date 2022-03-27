@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: a089af96-9073-c2c0-3554-6fa1d28d62d2
 resourcetype: Document
 title: 'Signal Processing on Databases: Perfect Power Law Graphs'
 uid: 8a0a7bae-75f0-1333-c422-83e25dc898d3

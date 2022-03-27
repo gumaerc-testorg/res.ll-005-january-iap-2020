@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: a089af96-9073-c2c0-3554-6fa1d28d62d2
 resourcetype: Document
 title: 'Signal Processing on Databases: Bio Sequence Cross Correlation'
 uid: 37c2f183-cb76-6850-be99-28a85bf0b59a

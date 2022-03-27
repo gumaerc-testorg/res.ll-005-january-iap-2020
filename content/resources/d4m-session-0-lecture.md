@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: D4M Session 0 Lecture
 uid: 8c66c84f-e40d-68f1-d0ba-4fcf5823541b
 video_files:

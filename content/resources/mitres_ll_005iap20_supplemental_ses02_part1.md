@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: a089af96-9073-c2c0-3554-6fa1d28d62d2
 resourcetype: Document
 title: 'Mathematics of Big Data and Machine Learning: Cyber Network Data Processing'
 uid: 9bb1f90f-a303-2dc0-f138-0e783a51e79c

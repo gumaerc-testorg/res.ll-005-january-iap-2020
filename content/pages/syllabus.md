@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides course policy for the MIT Lincoln Laboratory course,
+  Mathematics of Big Data and Machine Learning of IAP, 2020.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus

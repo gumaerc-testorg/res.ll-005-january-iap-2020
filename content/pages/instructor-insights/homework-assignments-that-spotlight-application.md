@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'TLP 3: Homework Assignments that Spotlight Application'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

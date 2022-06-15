@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 D4M.mit.edu software demo examples/2Apps/4BioBlast. Distribution of genetic sample data. Ingesting genetic data into an associative array using the exploded (D4M) schema. Correlating genetic data via associative array multiplication.
 
 **Instructor:** Jeremy Kepner
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg
+file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: '"Big Data" refers to a technological phenomenon that has emerged since

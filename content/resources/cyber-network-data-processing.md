@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1408'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Cyber Network Data Processing
 uid: 220f3555-03e8-6e36-bb15-88e0277a066c
 video_files:
@@ -29,3 +30,6 @@ Description
 In this video, which plays from the beginning to 00:23:28, Dr. Vijay Gadepally discusses anomaly detection and data conditioning in machine learning.
 
 **Instructor:** Vijay Gadepally
+
+
+

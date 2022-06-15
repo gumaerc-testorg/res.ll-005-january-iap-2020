@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'TLP 4: Valuing Concept Transition'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

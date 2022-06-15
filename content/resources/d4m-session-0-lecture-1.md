@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 Introduction to signal processing applied to graphs. Course outline. Discussion of relevant technologies programming and storage technologies. Constructing a graph from raw data.
 
 **Instructor:** Jeremy Kepner
+
+
+

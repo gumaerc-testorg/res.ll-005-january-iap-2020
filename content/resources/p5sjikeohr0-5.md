@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/8e5fb71b362f5fce95d2fc8396e0eba9_P5SjikeOHr0.vtt
+file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/8e5fb71b362f5fce95d2fc8396e0eba9_P5SjikeOHr0.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 Associative array mathematics. Relevant operations on an associative array. Semirings and matrices. See MIT Press book "Mathematics of Big Data."
 
 **Instructor:** Jeremy Kepner
+
+
+

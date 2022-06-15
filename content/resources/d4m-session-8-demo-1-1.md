@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 D4M.mit.edu software demo examples/3Scaling/1KroneckerGraph. Generation of power law graphs via Kronecker products. D4M.mit.edu software demoexamples/3Scaling/3MatrixPerformance. Measuring the performance of array multiplication.
 
 **Instructor:** Jeremy Kepner
+
+
+

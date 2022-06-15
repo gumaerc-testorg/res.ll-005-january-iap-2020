@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 Jeremy Kepner talked about his newly released book, "Mathematics of Big Data," which serves as the motivational material for the D4M course.
 
 **Instructor:** Jeremy Kepner
+
+
+

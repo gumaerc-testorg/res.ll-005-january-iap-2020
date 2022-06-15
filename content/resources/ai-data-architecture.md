@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '4600'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1410'
 title: AI Data Architecture
 uid: 8b467cb1-23c5-3c00-7894-699f136707f0
 video_files:
@@ -29,3 +30,6 @@ Description
 In this video, which plays from the 00:23:28 to the end, Dr. Jeremy Kepner leads the class to explore the AI data architecture in data processing.
 
 **Instructor:** Jeremy Kepner
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 Genectic sequence analysis using associative arrays. Creating of a genetic processing pipeline. Ingest of genetic sample data into a database. Sub-sampling of data. Correlation of genetic samples using associative array multiplication.
 
 **Instructor:** Jeremy Kepner
+
+
+

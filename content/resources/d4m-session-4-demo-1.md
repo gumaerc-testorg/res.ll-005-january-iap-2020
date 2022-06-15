@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +30,6 @@ Description
 D4M.mit.edu software demo example/2Apps/2TrackAnalysis. Tracking entities through space and time.
 
 **Instructor:** Jeremy Kepner
+
+
+

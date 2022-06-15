@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'TLP 2: Lectures as Performance'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

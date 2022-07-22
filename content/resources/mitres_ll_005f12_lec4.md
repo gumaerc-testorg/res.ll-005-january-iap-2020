@@ -5,6 +5,7 @@ file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-i
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: 'Signal Processing on Databases: Analysis of Structured Data'
 uid: e0edd837-36a0-07bc-2164-268abeeaa82f
 ---
 This resource contains information regarding analysis of structured data.
-

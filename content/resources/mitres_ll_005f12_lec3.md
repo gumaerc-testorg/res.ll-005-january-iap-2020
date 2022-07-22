@@ -6,6 +6,7 @@ file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-i
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: 'Signal Processing on Databases: Entity Analysis in Unstructured Data'
 uid: 77022bf0-c720-f790-824e-bd25b90e786b
 ---
 This resource contains information regarding entity analysis in unstructured data.
-

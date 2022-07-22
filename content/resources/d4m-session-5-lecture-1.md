@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Description
 Statistical distribution of background/noise in databases. Power law distribution describes many backgrounds. Perfect power law distribution can be used to bin and model the background data.
 
 **Instructor:** Jeremy Kepner
-
-
 

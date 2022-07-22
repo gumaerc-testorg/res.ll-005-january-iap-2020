@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Description
 Computing statistics and analytics on data in the exploded (D4M) schema.
 
 **Instructor:** Jeremy Kepner
-
-
 

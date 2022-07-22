@@ -4,6 +4,7 @@ description: ''
 end_time: '1408'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Description
 In this video, which plays from the beginning to 00:23:28, Dr. Vijay Gadepally discusses anomaly detection and data conditioning in machine learning.
 
 **Instructor:** Vijay Gadepally
-
-
 

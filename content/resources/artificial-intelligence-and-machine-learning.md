@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Description
 This lecture provided an overview on artificial intelligence and took a deep dive on machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
 
 **Instructor:** Jeremy Kepner, Vijay Gadepally
-
-
 

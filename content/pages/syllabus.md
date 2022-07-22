@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides course policy for the MIT Lincoln Laboratory course,
+  Mathematics of Big Data and Machine Learning of IAP, 2020.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: 0cd7ce1c-2ba7-9a20-0a67-821d6e5c8323
 ---
@@ -12,7 +16,7 @@ Lectures: 1 session / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011) and familiarity with MATLAB®.
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011) and familiarity with MATLAB{{< sup "®" >}}.
 
 Goal
 ----

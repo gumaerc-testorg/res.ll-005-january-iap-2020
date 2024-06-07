@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding analysis of structured data.
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/e0edd83736a007bc2164268abeeaa82f_MITRES_LL_005F12_Lec4.pdf
+file_size: 299882
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

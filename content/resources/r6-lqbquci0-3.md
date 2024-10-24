@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7a95891234b4363ea11d002bf10e4e6b_R6-LQbqUCI0.pdf
+file: /ol-ocw-studio-app/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7a95891234b4363ea11d002bf10e4e6b_R6-LQbqUCI0.pdf
 file_size: 36519
 file_type: application/pdf
 learning_resource_types: []

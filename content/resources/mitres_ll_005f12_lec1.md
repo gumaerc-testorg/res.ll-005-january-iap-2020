@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding associate arrays.
-file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/31383c75162cf7fdc77f0e49c609f6b8_MITRES_LL_005F12_Lec1.pdf
+file: /ol-ocw-studio-app/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/31383c75162cf7fdc77f0e49c609f6b8_MITRES_LL_005F12_Lec1.pdf
 file_size: 1215587
 file_type: application/pdf
 learning_resource_types:

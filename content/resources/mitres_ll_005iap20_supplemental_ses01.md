@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/401f741bad396cbf0fcf9ae7b79e1029_MITRES_LL_005IAP20_Supplemental_Ses01.pdf
+file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/401f741bad396cbf0fcf9ae7b79e1029_MITRES_LL_005IAP20_Supplemental_Ses01.pdf
 file_size: 4136524
 file_type: application/pdf
 learning_resource_types:
